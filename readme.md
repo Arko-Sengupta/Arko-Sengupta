@@ -31,7 +31,7 @@ I believe success and failure are two sides of the same coin, so nothing lasts f
 
 I'm a B.Tech graduate in Computer Science and Engineering. I'm a seeker, learner, and implementer who believes in the value of smart work combined with hard work. I am a tech enthusiast with ambitions to achieve great things in the near future. I am a coder who sometimes goes out of his mind while coding to solve real-life problems based on his problem-solving skills. Apart from that, music is life.
 
-I am currently available for Machine Learning Problem Statements, AI Development, and Full Stack Web Development. I am highly motivated by research work and will seize any opportunity that comes my way in the future.
+I am currently available for Machine Learning Problem Statements and Artificial Intelligence (AI) Development. I am highly motivated by research work and will seize any opportunity that comes my way in the future.
 
 I love to explore new technologies and tools, and I'm eager to collaborate with a hard-working team to elevate the entire community to the next level. I am constantly searching for resources that enable me to learn exciting technologies and fuel my passion for programming.
 </br></br>
