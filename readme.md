@@ -16,7 +16,7 @@
 </h5>
 <br>
 
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 <br>
 <p align="center">
    <!-- Programming Languages -->
