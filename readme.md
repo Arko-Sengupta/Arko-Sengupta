@@ -1,23 +1,23 @@
 ## Hey 👋, I'm Arko!
 
 <a href="#" rel="nofollow">
-    <img alt="Facebook" width="70px" src="https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg" />
+    <img alt="Facebook" width="50px" src="https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg" />
 </a>
 
 <a href="#">
-    <img alt="Instagram" width="70px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />
+    <img alt="Instagram" width="50px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />
 </a>
 
 <a href="#">
-    <img align="left" alt="Twitter" width="70px" src="https://www.logo.wine/a/logo/Twitter/Twitter-Logo.wine.svg" />
+    <img align="left" alt="Twitter" width="50px" src="https://www.logo.wine/a/logo/Twitter/Twitter-Logo.wine.svg" />
 </a>
 
 <a href="#">
-    <img align="left" alt="LinkedIn" width="70px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" />
+    <img align="left" alt="LinkedIn" width="50px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" />
 </a>
 
 <a href="mailto:arkosengupta700@gmail.com">
-    <img align="left" alt="Email" width="70px" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" />
+    <img align="left" alt="Email" width="50px" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" />
 </a>
 
 </br>
