@@ -31,16 +31,16 @@
   <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
   <br>
   <p align="center">
-    
+    <>
     <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat-square" />
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square" />
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" />
     <img alt="JavaScript"
       src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" />
-    
+    <>
     <img alt='MySQL' src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square" />
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square" />
-    
+    <>
     <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat-square" />
     <img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square" />
     <img alt="TensorFlow"
@@ -51,19 +51,19 @@
     <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=flat-square" />
     <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" />
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat-square" />
-   
+    <>
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square" />
     <img alt="Github" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square" />
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square" />
-    
+    <>
     <img alt="VSCode"
       src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square" />
     <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat-square" />
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat-square" />
     <img alt="Colab"
       src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=flat-square" />
- 
+    <>
     <img alt='Google Cloud'
       src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat-square" />
     <img alt='AWS'
@@ -100,30 +100,10 @@
         src="https://github-readme-activity-graph.vercel.app/graph?username=Arko-Sengupta&theme=react-dark&bg_color=20232a&hide_border=true"
         width="100%" />
       </p>
-
-      <!--
-         <hr>
-         <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-         <br>
-         <div width="100%" align="center">
-          <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
-         </div>
-         <br/><br/><br/><br/><br/><br/>
-         <div width="100%" align="center">
-           <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-           <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
-         </div>
-         <br/><br/><br/><br/><br/><br/>
-         <div width="100%" align="center">
-           <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-           <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-         </div>
-         <br/><br/><br/><br/><br/><br/>
-    -->
-
-    <h4 align="center">
-      <a href="https://github.com/Arko-Sengupta?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-    </h4>
+      <>
+      <h4 align="center">
+        <a href="https://github.com/Arko-Sengupta?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+      </h4>
     
 </body>
 </html>
