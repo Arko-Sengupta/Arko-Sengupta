@@ -19,7 +19,7 @@
         src="https://www.logo.wine/a/logo/Twitter/Twitter-Logo.wine.svg"></a>
     <a href="#" title="LinkedIn Profile"><img width="50"
         src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg"></a>
-    <a href="mailto:arkosengupta700@gmail.com" title="Gmail Profile"><img width="50"
+    <a href="#" title="Gmail Profile"><img width="50"
         src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg"></a>
     <a href="#" title="Facebook Profile"><img width="50"
         src="https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg"></a>
