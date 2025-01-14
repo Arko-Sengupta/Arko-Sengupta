@@ -69,10 +69,12 @@
   <br>
   <p align=center>
   <div align=center>
-    <a href="https://github-readme-streak-stats.herokuapp.com?user=Arko-Sengupta&theme=react&hide_border=true">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Arko-Sengupta&theme=react&hide_border=true" alt="GitHub Streak" />
-    </a>
     <div>
+      <div align=center>
+        <a href="https://github-readme-streak-stats.herokuapp.com?user=Arko-Sengupta&theme=react&hide_border=true">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=Arko-Sengupta&theme=react&hide_border=true&cacheBuster=1672531192" alt="GitHub Streak" />
+        </a>
+      </div>
       <br><br>
       <div align=center>
         <a href="https://github.com/Arko-Sengupta/github-readme-stats" title="Go to Source">
