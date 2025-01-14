@@ -69,10 +69,8 @@
   <br>
   <p align=center>
   <div align=center>
-    <a href="https://github.com/Arko-Sengupta/github-readme-streak-stats" title="Go to Source">
-      <img width=390
-        src="https://streak-stats.demolab.com/?user=Arko-Sengupta&theme=react&border=61dafb&hide_border=true"
-        alt="Arko-Sengupta" />
+    <a href="https://github-readme-streak-stats.herokuapp.com?user=Arko-Sengupta&theme=react&hide_border=true">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Arko-Sengupta&theme=react&hide_border=true" alt="GitHub Streak" />
     </a>
     <div>
       <br><br>
