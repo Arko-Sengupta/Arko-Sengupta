@@ -9,7 +9,7 @@
   <h1 align="center">
     <a href="https://git.io/typing-svg">
       <img
-        src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Arko!;Nice+to+meet+you!&center=true&size=30">
+        src="https://readme-typing-svg.demolab.com/?lines=Hello,+There!+👋;I+am+Arko!;Nice+to+meet+you!&center=true&size=30">
     </a>
   </h1>
 
@@ -71,8 +71,8 @@
   <div align=center>
     <div>
       <div align=center>
-        <a href="https://github-readme-streak-stats.herokuapp.com?user=Arko-Sengupta&theme=react&hide_border=true">
-         <img src="https://github-readme-streak-stats.herokuapp.com?user=Arko-Sengupta&theme=react&hide_border=true&cacheBuster=1705334475" alt="GitHub Streak" />
+        <a href="https://streak-stats.demolab.com?user=Arko-Sengupta&theme=react&hide_border=true">
+         <img src="https://streak-stats.demolab.com?user=Arko-Sengupta&theme=react&hide_border=true&cacheBuster=1705334475" alt="GitHub Streak" />
         </a>
       </div>
       <br><br>
