@@ -9,7 +9,7 @@
   <h1 align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
       <img
-        src="https://readme-typing-svg.demolab.com/?lines=Hello,+There!+👋;I+am+Arko!;Nice+to+meet+you!&center=true&size=30">
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&size=30&width=435&lines=Hello,+There!+%F0%9F%91%8B;I+am+Arko!;Nice+to+meet+you!">
     </a>
   </h1>
 
